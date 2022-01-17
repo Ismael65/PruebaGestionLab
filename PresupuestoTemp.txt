@@ -1,0 +1,44 @@
+PP-01	Corte de taco para sección petrográfica								3,60
+PP-02	Sección petrográfica normal (5,5 x 3,0 cm) de roca deleznable					8,00
+PP-03	Sección petrográfica normal (5,5 x 3,0 cm) de roca consistente					6,16
+PP-04	Sección petrográfica impregnada en vacío (no incluye la resina)					8,58
+PP-05	Sección petrográfica impregnada y teñida (no incluye la resina ni el colorante			9,32
+PP-06	Sección minerográfica en montura de plástico							12,40
+PP-07	Sección petrográfica de material no consolidado (arenas, etc.)					8,00
+PP-08	Sección delgada											12,40
+PP-08	Sección delgada											12,40
+PP-08	Sección delgada											12,40
+PP-01	Corte de taco para sección petrográfica								3,60
+PP-02	Sección petrográfica normal (5,5 x 3,0 cm) de roca deleznable					8,00
+PP-03	Sección petrográfica normal (5,5 x 3,0 cm) de roca consistente					6,16
+PP-04	Sección petrográfica impregnada en vacío (no incluye la resina)					8,58
+PP-05	Sección petrográfica impregnada y teñida (no incluye la resina ni el colorante			9,32
+PP-06	Sección minerográfica en montura de plástico							12,40
+PP-07	Sección petrográfica de material no consolidado (arenas, etc.)					8,00
+PP-08	Sección delgada											12,40
+PP-08	Sección delgada											12,40
+PP-08	Sección delgada											12,40
+PP-01	Corte de taco para sección petrográfica								3,60
+PP-02	Sección petrográfica normal (5,5 x 3,0 cm) de roca deleznable					8,00
+PP-03	Sección petrográfica normal (5,5 x 3,0 cm) de roca consistente					6,16
+PP-04	Sección petrográfica impregnada en vacío (no incluye la resina)					8,58
+PP-06	Sección minerográfica en montura de plástico							12,40
+PP-07	Sección petrográfica de material no consolidado (arenas, etc.)					8,00
+PP-08	Sección delgada											12,40
+PP-08	Sección delgada											12,40
+PP-01	Corte de taco para sección petrográfica								3,60
+PP-02	Sección petrográfica normal (5,5 x 3,0 cm) de roca deleznable					8,00
+PP-03	Sección petrográfica normal (5,5 x 3,0 cm) de roca consistente					6,16
+PP-04	Sección petrográfica impregnada en vacío (no incluye la resina)					8,58
+PP-05	Sección petrográfica impregnada y teñida (no incluye la resina ni el colorante			9,32
+PP-06	Sección minerográfica en montura de plástico							12,40
+PP-07	Sección petrográfica de material no consolidado (arenas, etc.)					8,00
+PP-08	Sección delgada											12,40
+PP-08	Sección delgada											12,40
+PP-01	Corte de taco para sección petrográfica								3,60
+PP-02	Sección petrográfica normal (5,5 x 3,0 cm) de roca deleznable					8,00
+PP-03	Sección petrográfica normal (5,5 x 3,0 cm) de roca consistente					6,16
+PP-04	Sección petrográfica impregnada en vacío (no incluye la resina)					8,58
+PP-05	Sección petrográfica impregnada y teñida (no incluye la resina ni el colorante			9,32
+PP-06	Sección minerográfica en montura de plástico							12,40
+PP-07	Sección petrográfica de material no consolidado (arenas, etc.)					8,00
